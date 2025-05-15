@@ -10,7 +10,7 @@ FarmTrust is organized as a modular system, consisting of three main repositorie
 A web interface for farmers, certifiers, and consumers.
 
 ### 🔸 Backend 
-A REST API that handles data validation, user management, and interaction with both blockchain.
+REST API that handles data validation, user management, and blockchain interaction.
 
 ### 🔸 Smart Contracts  
 Smart contracts for managing eco-label declarations and verifications on-chain.
