@@ -9,10 +9,10 @@ FarmTrust is organized as a modular system, consisting of three main repositorie
 ### 🔸Frontend
 A web interface for farmers, certifiers, and consumers.
 
-### 🔸 Backend 
+### 🔸Backend 
 REST API that handles data validation, user management, and blockchain interaction.
 
-### 🔸 Smart Contracts  
+### 🔸Smart Contracts  
 Smart contracts for managing eco-label declarations and verifications on-chain.
 
 ## 🌍 Purpose
@@ -25,16 +25,16 @@ Smart contracts for managing eco-label declarations and verifications on-chain.
 
 ## 🔒 Key Features
 
-🔸 Blockchain-based traceability
+🔸Blockchain-based traceability
 
-🔸 Public access to product environmental claims
+🔸Public access to product environmental claims
 
-🔸 QR code integration for easy data lookup
+🔸QR code integration for easy data lookup
 
 
 ## 🚀 Contributing
 
-🔸 We welcome contributions from developers, sustainability experts, and certification authorities. If you’d like to get involved, feel free to open an issue or submit a pull request.
+🔸We welcome contributions from developers, sustainability experts, and certification authorities. If you’d like to get involved, feel free to open an issue or submit a pull request.
 
 ## 🌐 Live Demo
 
