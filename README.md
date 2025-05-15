@@ -35,3 +35,8 @@ Smart contracts for managing eco-label declarations and verifications on-chain.
 ## 🚀 Contributing
 
 🔸 We welcome contributions from developers, sustainability experts, and certification authorities. If you’d like to get involved, feel free to open an issue or submit a pull request.
+
+## 🌐 Live Demo
+
+You can explore a working demo of the FarmTrust platform here:  
+🔗 [organicportal.in.ua](https://organicportal.in.ua/)
