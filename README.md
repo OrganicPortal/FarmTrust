@@ -38,5 +38,8 @@ Smart contracts for managing eco-label declarations and verifications on-chain.
 
 ## 🌐 Live Demo
 
-You can explore a working demo of the FarmTrust platform here:  
-🔗 [organicportal.in.ua](https://organicportal.in.ua/)
+🔸You can explore a working demo of the FarmTrust platform here: 🔗 [organicportal.in.ua](https://organicportal.in.ua/)
+
+🔸Watch our pitch video to learn about the vision, goals, and key features of the platform: 🔗 [youtube.com](https://youtu.be/zDult3oPjng)
+
+🔸Watch the technical demo video to see the platform in action: 🔗 [youtube.com](https://youtu.be/bTsPYFtcreU)
